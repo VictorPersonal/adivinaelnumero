@@ -101,6 +101,7 @@ Scaffold
                 └── FadeTransition
                     └── SlideTransition
                         └── Column
+
 Column organiza los elementos verticalmente. No obstante podemos ver otros widgets como:
 
 Row → organiza horizontalmente (icono + texto).

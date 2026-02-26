@@ -94,13 +94,13 @@ Es una buena práctica en Flutter.
 
 La estructura general de la interfaz es:
 Scaffold
-|__ Container
-    |__ SafeArea
-        |__ Center
-            |__ SingleChildScrollView
-                |__ FadeTransition
-                    |__ SlideTransition
-                        |__ Column
+└── Container
+    └── SafeArea
+        └── Center
+            └── SingleChildScrollView
+                └── FadeTransition
+                    └── SlideTransition
+                        └── Column
 Column organiza los elementos verticalmente. No obstante podemos ver otros widgets como:
 
 Row → organiza horizontalmente (icono + texto).
